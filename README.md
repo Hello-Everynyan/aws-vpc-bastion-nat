@@ -30,6 +30,4 @@ Kiểm tra App Server vùng kín đã có thể ra Internet tải các gói cậ
 ![Successful Ping Test](./images/successful-ping-test.png)
 
 ---
-
-## 🚀 Kịch bản lệnh vận hành
-Toàn bộ chuỗi lệnh Terminal dùng trong quá trình thiết lập và test cú nhảy kép được lưu tại file `setup-commands.sh`.
+Lưu ý: Toàn bộ chuỗi lệnh Terminal dùng trong quá trình thiết lập và test cú nhảy kép được lưu tại file `setup-commands.sh`.
